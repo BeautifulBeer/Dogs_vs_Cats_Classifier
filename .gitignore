@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+dogs-vs-cats-redux-kernels-edition
+/**/*.pth
+/**/*.csv
+
