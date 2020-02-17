@@ -3,6 +3,10 @@ This repository implements classifier of cats and dogs for kaggle competition, "
 
 
 
+Link : https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview
+
+
+
 ## Getting Started
 
 The only thing you have to do is to execute "main.ipynb". 
